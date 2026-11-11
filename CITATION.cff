@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: Biomedical Image Geometry
+type: software
+authors:
+  - family-names: Tanhaei
+    given-names: Ghazaleh
+repository-code: https://github.com/tanhaee/biomedical-image-geometry
+license: MIT
